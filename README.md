@@ -10,33 +10,6 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
 > GAMES103课程PPT
 >
-> >  [01_intro.pptx](.\GAMES103课程PPT\01_intro.pptx)(with no viedos)
-> >
-> >  [02_math.pptx](.\GAMES103课程PPT\02_math.pptx) 
-> >
-> >  [03_rigid.pptx](.\GAMES103课程PPT\03_rigid.pptx) 
-> >
-> >  [04_rigid contact.pptx](.\GAMES103课程PPT\04_rigid contact.pptx) 
-> >
-> >  [05_cloth.pptx](.\GAMES103课程PPT\05_cloth.pptx) 
-> >
-> >  [06_constraints.pptx](.\GAMES103课程PPT\06_constraints.pptx) 
-> >
-> >  [07_collision.pptx](.\GAMES103课程PPT\07_collision.pptx) 
-> >
-> >  [08_FEM.pptx](.\GAMES103课程PPT\08_FEM.pptx) 
-> >
-> >  [08_FEM_new.pptx](.\GAMES103课程PPT\08_FEM_new.pptx) 
-> >
-> >  [09_FEM2.pptx](.\GAMES103课程PPT\09_FEM2.pptx) 
-> >
-> >  [10_wave.pptx](.\GAMES103课程PPT\10_wave.pptx) 
-> >
-> >  [11_Eulerian_fluids.pptx](.\GAMES103课程PPT\11_Eulerian_fluids.pptx) 
-> >
-> >  [12_SPH.pptx](.\GAMES103课程PPT\12_SPH.pptx) 
-> >
-> > [After-class reading list.docx](.\GAMES103课程PPT\After-class reading list.docx)
 
 > Lab *
 >
@@ -63,11 +36,11 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
   impulst-based方法结果：
 
-![result](\Lab1_Angry Bunny\result_impulse-based.gif)
+![result_impulse-based](README.assets/result_impulse-based.gif)
 
 ​	shape-matching方法结果：
 
-![result](\Lab1_Angry Bunny\result_shape-matching.gif)
+![result_shape-matching](README.assets/result_shape-matching.gif)
 
 ### Lab2：Cloth Simulation（满分）
 
@@ -77,11 +50,11 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
   Implicit方法结果：
 
-![result](\Lab2_Cloth Simulation\result_implicit.gif)
+![result](README.assets/result_implicit.gif)
 
 ​		PBD方法结果：
 
-![result](\Lab2_Cloth Simulation\result_PBD.gif)
+![result](README.assets/result_PBD.gif)
 
 ### Lab3：Elasitc Body Simulation（满分）
 
@@ -95,20 +68,20 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
 FVM方法
 
-![result](\Lab3_Bouncy House\result_FVM.gif)
+![result](README.assets/result_FVM.gif)
 
 StVK模型：
 
-![result](\Lab3_Bouncy House\result_StVK.gif)
+![result](README.assets/result_StVK.gif)
 
 neo-Hookean方法：
 
-![result](\Lab3_Bouncy House\result_neo-Hookean.gif)
+![result](README.assets/result_neo-Hookean.gif)
 
 ### Lab4：Ripples Simulation（满分）
 
 - Shallow_Wave model \ Two-way coupling
 - 按 ‘r' 添加随机水滴，拖动方块进行交互
 
-![result](\Lab4_Pool Ripples\result.gif)
+![result](README.assets/result.gif)
 
