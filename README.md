@@ -5,38 +5,9 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 这个项目记录了[GAMES103课程](http://games-cn.org/games103/)的PPT和作业
 
 
-
 ### 项目框架
 
 > GAMES103课程PPT
->
-> >  [01_intro.pptx](.\GAMES103课程PPT\01_intro.pptx)(with no viedos)
-> >
-> >  [02_math.pptx](.\GAMES103课程PPT\02_math.pptx) 
-> >
-> >  [03_rigid.pptx](.\GAMES103课程PPT\03_rigid.pptx) 
-> >
-> >  [04_rigid contact.pptx](.\GAMES103课程PPT\04_rigid contact.pptx) 
-> >
-> >  [05_cloth.pptx](.\GAMES103课程PPT\05_cloth.pptx) 
-> >
-> >  [06_constraints.pptx](.\GAMES103课程PPT\06_constraints.pptx) 
-> >
-> >  [07_collision.pptx](.\GAMES103课程PPT\07_collision.pptx) 
-> >
-> >  [08_FEM.pptx](.\GAMES103课程PPT\08_FEM.pptx) 
-> >
-> >  [08_FEM_new.pptx](.\GAMES103课程PPT\08_FEM_new.pptx) 
-> >
-> >  [09_FEM2.pptx](.\GAMES103课程PPT\09_FEM2.pptx) 
-> >
-> >  [10_wave.pptx](.\GAMES103课程PPT\10_wave.pptx) 
-> >
-> >  [11_Eulerian_fluids.pptx](.\GAMES103课程PPT\11_Eulerian_fluids.pptx) 
-> >
-> >  [12_SPH.pptx](.\GAMES103课程PPT\12_SPH.pptx) 
-> >
-> > [After-class reading list.docx](.\GAMES103课程PPT\After-class reading list.docx)
 
 > Lab *
 >
@@ -63,9 +34,10 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
   impulst-based方法结果：
 
-![result](\Lab1_Angry Bunny\result_impulse-based.gif)
+![result](.\Lab1_Angry Bunny\result_impulse-based.gif)
 
 ​	shape-matching方法结果：
+
 
 ![result](\Lab1_Angry Bunny\result_shape-matching.gif)
 
@@ -77,7 +49,7 @@ repo for the assignments of GAMES103: 基于物理的计算机动画入门 by �
 
   Implicit方法结果：
 
-![result](\Lab2_Cloth Simulation\result_implicit.gif)
+![result](.\Lab2_Cloth Simulation\result_implicit.gif)
 
 ​		PBD方法结果：
 
