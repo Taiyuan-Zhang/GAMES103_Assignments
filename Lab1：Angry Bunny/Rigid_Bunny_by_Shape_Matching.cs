@@ -215,7 +215,7 @@ public class Rigid_Bunny_by_Shape_Matching : MonoBehaviour
 			//Shape Matching (translation)
 			Vector3 c = new Vector3(0, 0, 0);
 			for(int i=0; i<X.Length; i++){
-				c += X[i];
+				c += X[i]-Q[i];
 			}
 			c /= X.Length;
 
